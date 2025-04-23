@@ -1,0 +1,21 @@
+{
+    "configurations": [
+      {
+        "type": "coreclr",
+        "request": "launch",
+        "name": "Launch WeatherSync",
+        "program": "${workspaceFolder}/WeatherSync/bin/Debug/net8.0/WeatherSync.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/WeatherSync",
+        "stopAtEntry": false,
+        "preLaunchTask": "build"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "promptString",
+        "id": "programPath",
+        "description": "Path to your program"
+      }
+    ]
+  }

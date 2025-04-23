@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WeatherSync", "WeatherSync", "{1803110B-AE89-4D42-AD96-39165889493A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherSync.Tests", "WeatherSync.Tests\WeatherSync.Tests.csproj", "{1A256226-5B78-4866-B55D-0E78D7853E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931CD629-242F-487A-9CA5-1B541CB7319E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931CD629-242F-487A-9CA5-1B541CB7319E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931CD629-242F-487A-9CA5-1B541CB7319E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931CD629-242F-487A-9CA5-1B541CB7319E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB83E8BF-9F2E-4940-B44E-7F72F6278C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB83E8BF-9F2E-4940-B44E-7F72F6278C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB83E8BF-9F2E-4940-B44E-7F72F6278C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB83E8BF-9F2E-4940-B44E-7F72F6278C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A256226-5B78-4866-B55D-0E78D7853E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A256226-5B78-4866-B55D-0E78D7853E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A256226-5B78-4866-B55D-0E78D7853E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A256226-5B78-4866-B55D-0E78D7853E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+
+
+	EndGlobalSection
+EndGlobal

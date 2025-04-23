@@ -1,0 +1,52 @@
+2025-02-16 11:11:02.306 -07:00 [INF] Application Starting...
+2025-02-16 11:11:02.622 -07:00 [INF] Fetching weather data for Phoenix...
+2025-02-16 11:11:02.625 -07:00 [INF] Rate limit check: 15 / 1000 request used.
+2025-02-16 11:11:02.638 -07:00 [INF] Start processing HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:11:02.641 -07:00 [INF] Sending HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:11:02.979 -07:00 [INF] Received HTTP response headers after 336.6877ms - 200
+2025-02-16 11:11:02.981 -07:00 [INF] End processing HTTP request after 348.5635ms - 200
+2025-02-16 11:11:03.045 -07:00 [INF] City: Phoenix: Temperature: 66.09°F: Description: overcast clouds
+2025-02-16 11:11:03.257 -07:00 [INF] Incremented API request count.
+2025-02-16 11:11:03.258 -07:00 [INF] Fetching weather data for New York...
+2025-02-16 11:11:03.258 -07:00 [INF] Rate limit check: 16 / 1000 request used.
+2025-02-16 11:11:03.258 -07:00 [INF] Start processing HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:11:03.258 -07:00 [INF] Sending HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:11:03.320 -07:00 [INF] Received HTTP response headers after 61.5512ms - 200
+2025-02-16 11:11:03.320 -07:00 [INF] End processing HTTP request after 62.0553ms - 200
+2025-02-16 11:11:03.321 -07:00 [INF] City: New York: Temperature: 36.77°F: Description: heavy intensity rain
+2025-02-16 11:11:03.327 -07:00 [INF] Incremented API request count.
+2025-02-16 11:11:03.327 -07:00 [INF] Fetching weather data for London...
+2025-02-16 11:11:03.327 -07:00 [INF] Rate limit check: 17 / 1000 request used.
+2025-02-16 11:11:03.328 -07:00 [INF] Start processing HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:11:03.328 -07:00 [INF] Sending HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:11:03.389 -07:00 [INF] Received HTTP response headers after 61.0287ms - 200
+2025-02-16 11:11:03.389 -07:00 [INF] End processing HTTP request after 61.4361ms - 200
+2025-02-16 11:11:03.389 -07:00 [INF] City: London: Temperature: 36.97°F: Description: overcast clouds
+2025-02-16 11:11:03.397 -07:00 [INF] Incremented API request count.
+2025-02-16 11:11:03.397 -07:00 [INF] Weather processing complete.
+2025-02-16 11:18:12.618 -07:00 [INF] Application Starting...
+2025-02-16 11:18:12.836 -07:00 [INF] Fetching weather data for Phoenix...
+2025-02-16 11:18:12.839 -07:00 [INF] Rate limit check: 18 / 1000 request used.
+2025-02-16 11:18:12.852 -07:00 [INF] Start processing HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:18:12.855 -07:00 [INF] Sending HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:18:13.186 -07:00 [INF] Received HTTP response headers after 328.7775ms - 200
+2025-02-16 11:18:13.188 -07:00 [INF] End processing HTTP request after 341.4038ms - 200
+2025-02-16 11:18:13.248 -07:00 [INF] City: Phoenix: Temperature: 66.09°F: Description: overcast clouds
+2025-02-16 11:18:13.408 -07:00 [INF] Incremented API request count.
+2025-02-16 11:18:13.409 -07:00 [INF] Fetching weather data for New York...
+2025-02-16 11:18:13.409 -07:00 [INF] Rate limit check: 19 / 1000 request used.
+2025-02-16 11:18:13.409 -07:00 [INF] Start processing HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:18:13.410 -07:00 [INF] Sending HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:18:13.472 -07:00 [INF] Received HTTP response headers after 61.9964ms - 200
+2025-02-16 11:18:13.472 -07:00 [INF] End processing HTTP request after 62.5009ms - 200
+2025-02-16 11:18:13.473 -07:00 [INF] City: New York: Temperature: 36.86°F: Description: heavy intensity rain
+2025-02-16 11:18:13.478 -07:00 [INF] Incremented API request count.
+2025-02-16 11:18:13.478 -07:00 [INF] Fetching weather data for London...
+2025-02-16 11:18:13.478 -07:00 [INF] Rate limit check: 20 / 1000 request used.
+2025-02-16 11:18:13.479 -07:00 [INF] Start processing HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:18:13.479 -07:00 [INF] Sending HTTP request GET https://api.openweathermap.org/data/2.5/weather?*
+2025-02-16 11:18:13.541 -07:00 [INF] Received HTTP response headers after 62.2207ms - 200
+2025-02-16 11:18:13.541 -07:00 [INF] End processing HTTP request after 62.5687ms - 200
+2025-02-16 11:18:13.541 -07:00 [INF] City: London: Temperature: 36.97°F: Description: overcast clouds
+2025-02-16 11:18:13.545 -07:00 [INF] Incremented API request count.
+2025-02-16 11:18:13.545 -07:00 [INF] Weather processing complete.
